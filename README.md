@@ -1,5 +1,5 @@
 # Geo-Search
-DevCTrainingWithAndela - CapStone Project
+DevCTrainingWithAndela - Capstone Project
 
 # Project Overview
 Geo-Search is a tool that allows people to search for places and extract information such as
